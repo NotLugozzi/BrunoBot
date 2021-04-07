@@ -3,7 +3,11 @@ All the code under the BrunoBot repo is licensed under the gnu-gpl 2.0 license; 
 ### WHY THO
 A frient wanted me to do this, i learned how to use discord.py so like it's a win-win thing. 
 ### Does it work?
-surprisingly yes, it does work
+surprisingly yes, it does work, you'll need to create a file called .env and put your token in it:
+```python
+# .env
+TOKEN=[your token here]
+```
 ### Requirementes
 - python 3.6
 - Discord.py
